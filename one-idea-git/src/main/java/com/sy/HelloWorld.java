@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.println("Idea pull 2 !");
 
         System.out.println("Idea push !");
+        System.out.println("Idea clone !");
 
     }
 }
